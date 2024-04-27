@@ -42,7 +42,7 @@
             }
 
             >button {
-                padding: 0.8rem 1.1rem 0.8rem 1.1rem;
+                padding:0.6rem 1rem;
                 background-color: #10847e;
                 border: none;
                 border-top-right-radius: 9999px;
@@ -526,17 +526,10 @@ nav ul li a.active {
                 align-items: center;
                 margin-bottom: 0.25rem;
                 margin-left: 0.25rem;
-
-                >svg {
-                    width: 1rem;
-                    height: 1rem;
-                    color: #f6e05e;
+                >img{
+                    width: 1.2rem;
+                    margin-left: -0.9rem;
                 }
-
-                >.svg-1 {
-                    color: #d1d5db;
-                }
-
                 >p {
                     margin-left: 0.5rem;
                     font-size: 0.875rem;
